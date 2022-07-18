@@ -1,2 +1,2 @@
-# Photon
-Photon Engine
+# Centroid
+Centroid Engine
